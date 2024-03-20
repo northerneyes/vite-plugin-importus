@@ -53,11 +53,12 @@ const transformCode = async (code: string, importOptions: ImportOptions) => {
       const componentName = imported.name
       const finalComponentPath = formatedComponentName(libraryName, componentName, option)
       const finalCssPath = formatedStyleName(libraryName, componentName, option)
+      const componentLocalName = option.namedExport ? `{${local.name}}` : local.name
       
       if (!!finalCssPath) {
-        return `import ${local.name} from "${finalComponentPath}";\nimport "${finalCssPath}"; \n`
+        return `import ${componentLocalName} from "${finalComponentPath}";\nimport "${finalCssPath}"; \n`
       } else {
-        return `import ${local.name} from "${finalComponentPath}";\n`
+        return `import ${componentLocalName} from "${finalComponentPath}";\n`
       }
       
     }

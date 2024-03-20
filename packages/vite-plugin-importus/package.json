@@ -1,6 +1,6 @@
 {
-  "name": "vite-plugin-importus",
-  "version": "1.0.5",
+  "name": "@sharper/vite-plugin-importus",
+  "version": "1.0.0",
   "description": "The faster modularly import plugin for Vite.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -21,10 +21,7 @@
     "build": "rimraf dist && tsup src/index.ts --dts --format cjs,esm",
     "build:es": "tsc --module ESNEXT --outDir dist/es"
   },
-  "keywords": [
-    "vite",
-    "import"
-  ],
+  "keywords": ["vite", "import"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Geocld/vite-plugin-importus.git"

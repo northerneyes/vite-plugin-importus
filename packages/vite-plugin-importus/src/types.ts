@@ -3,6 +3,7 @@ export interface ImportOption {
   libraryName: string
   libraryDirectory?: string
   camel2DashComponentName?: boolean
+  namedExport?: boolean
 }
 
 export type ImportOptions = Array<ImportOption>

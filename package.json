@@ -10,10 +10,7 @@
     "build": "pnpm --filter vite-plugin-importus build",
     "publish": "sparkee publish"
   },
-  "keywords": [
-    "vite",
-    "import"
-  ],
+  "keywords": ["vite", "import"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Geocld/vite-plugin-importus.git"
@@ -29,7 +26,7 @@
     "vitest": "^0.18.1"
   },
   "engines": {
-    "node": "^16",
+    "node": "^18",
     "npm": "^7"
   },
   "packageManager": "pnpm@7.33.5"

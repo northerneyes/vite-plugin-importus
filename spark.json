@@ -1,5 +1,3 @@
 {
-  "packages": [
-    "vite-plugin-importus"
-  ]
+  "packages": ["@sharper/vite-plugin-importus"]
 }
