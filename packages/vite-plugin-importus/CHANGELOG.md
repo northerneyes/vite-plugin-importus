@@ -45,3 +45,30 @@
 * importSpecifier imported name incorrect ([705ac78](https://github.com/Geocld/vite-plugin-importus/commit/705ac78a3cc97b09332c7827ec3839fe61a177ef))
 * passthrough sourcemaps ([a026dce](https://github.com/Geocld/vite-plugin-importus/commit/a026dce998f08b5ce31dd9494e6230c140087ff4))
 
+### 1.0.1 (2024-03-20)
+
+
+### Features
+
+* add test and fix travel ast bug ([92d492d](https://github.com/Geocld/vite-plugin-importus/commit/92d492d1f5abbd0cf750f22a1de62d2bd1a7d348))
+
+
+### Refactoring
+
+* use pnpm and add example ([7b628b1](https://github.com/Geocld/vite-plugin-importus/commit/7b628b19c63968b8cecb8f33e0fff48a44c5bace))
+
+
+### Documentation
+
+* readme ([a4ea8d1](https://github.com/Geocld/vite-plugin-importus/commit/a4ea8d110a61e6849e09f748368007f0ed386ecd))
+* readme ([e07b8be](https://github.com/Geocld/vite-plugin-importus/commit/e07b8bea43672f253c378cacc4df091ab9a1f6d8))
+* update readme ([a35e81f](https://github.com/Geocld/vite-plugin-importus/commit/a35e81f52a1e71427473d7b5c98307b4f58bdbad))
+
+
+### FixBug
+
+* es modules export undefine when use tsc ([efee0b3](https://github.com/Geocld/vite-plugin-importus/commit/efee0b335e4ea5e54249d35ed681a5d5603033a2))
+* import specifier bug ([f4a5f4d](https://github.com/Geocld/vite-plugin-importus/commit/f4a5f4d457b06b8dcc3afe6add142a4471f39d56))
+* importSpecifier imported name incorrect ([705ac78](https://github.com/Geocld/vite-plugin-importus/commit/705ac78a3cc97b09332c7827ec3839fe61a177ef))
+* passthrough sourcemaps ([a026dce](https://github.com/Geocld/vite-plugin-importus/commit/a026dce998f08b5ce31dd9494e6230c140087ff4))
+
