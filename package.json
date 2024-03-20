@@ -1,7 +1,7 @@
 {
   "name": "importus",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "The faster modularly import plugin for Vite.",
   "scripts": {
     "info": "sparkee info",
