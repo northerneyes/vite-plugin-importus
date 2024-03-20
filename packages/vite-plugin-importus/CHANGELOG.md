@@ -72,3 +72,5 @@
 * importSpecifier imported name incorrect ([705ac78](https://github.com/Geocld/vite-plugin-importus/commit/705ac78a3cc97b09332c7827ec3839fe61a177ef))
 * passthrough sourcemaps ([a026dce](https://github.com/Geocld/vite-plugin-importus/commit/a026dce998f08b5ce31dd9494e6230c140087ff4))
 
+### [1.0.3](https://github.com/Geocld/vite-plugin-importus/compare/@sharper/vite-plugin-importus@1.0.1...@sharper/vite-plugin-importus@1.0.3) (2024-03-20)
+
