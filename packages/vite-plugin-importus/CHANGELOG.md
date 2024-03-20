@@ -74,3 +74,5 @@
 
 ### [1.0.3](https://github.com/Geocld/vite-plugin-importus/compare/@sharper/vite-plugin-importus@1.0.1...@sharper/vite-plugin-importus@1.0.3) (2024-03-20)
 
+### [1.0.6](https://github.com/Geocld/vite-plugin-importus/compare/@sharper/vite-plugin-importus@1.0.3...@sharper/vite-plugin-importus@1.0.6) (2024-03-20)
+
